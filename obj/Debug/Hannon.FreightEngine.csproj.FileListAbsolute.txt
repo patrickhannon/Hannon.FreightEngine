@@ -1,0 +1,7 @@
+C:\SourceControl\Hannon.FreightEngine\bin\Debug\Hannon.FreightEngine.pdb
+C:\SourceControl\Hannon.FreightEngine\obj\Debug\Hannon.FreightEngine.csproj.CoreCompileInputs.cache
+C:\SourceControl\Hannon.FreightEngine\obj\Debug\Hannon.FreightEngine.pdb
+C:\SourceControl\Hannon.FreightEngine\obj\Debug\Hannon.FreightEngine.csprojAssemblyReference.cache
+C:\SourceControl\Hannon.FreightEngine\bin\Debug\Hannon.FreightEngine.exe.config
+C:\SourceControl\Hannon.FreightEngine\bin\Debug\Hannon.FreightEngine.exe
+C:\SourceControl\Hannon.FreightEngine\obj\Debug\Hannon.FreightEngine.exe
